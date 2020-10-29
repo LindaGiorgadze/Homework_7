@@ -1,0 +1,32 @@
+body {
+	max-width: 1920px;
+}
+header {
+	height: 103px;
+	padding: 38px 0;
+	background-color: #FCFCFC;
+}
+.logo-box{
+	float: left;
+}
+.menu {
+	float: right;
+}
+li {
+	display: inline-block;
+}
+.clear {
+	clear: both;
+}
+.header-box {
+	max-width: 1300px;
+	margin: 0 auto;
+	height: 26px;
+}
+.container {
+	max-width: 1318px;
+	margin: 53px auto;
+}
+.cover-box img {
+	width: 100%;
+}
