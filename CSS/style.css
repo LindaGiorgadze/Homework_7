@@ -53,6 +53,7 @@ li {
 	width: 100%;
 	z-index: 0;
 	object-fit: cover;
+	border-radius: 15px 15px;
 }
 .cover-article {
 	background-color: rgb(24 60 119 / 0.3);
@@ -162,6 +163,9 @@ li {
 	display: inline-block;
 	color: #404040;
 	font-size: 15px;
+	height: 46px;
+	line-height: 21px;
+	overflow:hidden;
 }
 .article-box h3 {
 	color: #404040;
